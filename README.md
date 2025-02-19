@@ -29,8 +29,11 @@ This project was built as part of **Flipkart Grid 4.0**, focusing on detecting t
 
 ### 🥦 Produce
 **The model was trained and tested on the following:**
+<br>
 Fruits: 🍌 Banana
+<br>
 Vegetables: 🫑 Capsicum, 🥦 Broccoli, 🥬 Cauliflower
+<br>
 Leaves: 🌿 Pudina (Mint)
 
 ### 💡 Key Takeaways
