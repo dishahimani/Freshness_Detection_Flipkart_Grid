@@ -27,6 +27,12 @@ This project was built as part of **Flipkart Grid 4.0**, focusing on detecting t
 ### 📊 Results & Performance
 - Successfully classified **freshness levels** with **high accuracy** on real-world test data.
 
+### 🥦 Produce
+**The model was trained and tested on the following:**
+Fruits: 🍌 Banana
+Vegetables: 🫑 Capsicum, 🥦 Broccoli, 🥬 Cauliflower
+Leaves: 🌿 Pudina (Mint)
+
 ### 💡 Key Takeaways
 - **Custom feature engineering** was key to improving real-world classification accuracy.
 - **Rule-based classification worked better than deep learning models** due to limited real-world training data.
